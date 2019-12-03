@@ -1,0 +1,7 @@
+Na overleg met Philippe hebben we besloten dat het waarschijnlijk voor de 
+beginnende instromers een brug te ver is om een front end te gebruiken
+zoals bij een webpagina of iets dergelijks. Het beste is dus 
+om gewoon door te gaan met input en output van console.
+Menu kan via console gewoon worden afgedrukt en overzichten kunnen dat ook.
+Input via textuele prompts via console.
+Succes!  Adriaan - 3 dec 2019
