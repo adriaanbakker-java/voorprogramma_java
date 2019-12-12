@@ -4,7 +4,7 @@ package main;
 // OPRDACHT 2 Toon alleen de nummers die deelbaar door 2 EN 3 zijn
 // OPDRACHT 3 Maak een while-loop die getallen filtert die een veelvoud zijn van je leeftijd tussen 100 en 500, en het aantal exemplaren ervan toont.
 
-public class Main {
+public class JavaElements {
     public static void main(String[] args) {
         int[] nummers = {1,2,4,5,6,7,8,9,10};
         int index = 0;

@@ -4,8 +4,8 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>voorprogramma</groupId>
-    <artifactId>dag2</artifactId>
+    <groupId>week1.dag2</groupId>
+    <artifactId>deel2</artifactId>
     <version>1.0-SNAPSHOT</version>
 
 <build>
@@ -18,7 +18,7 @@
                 <archive>
                     <manifest>
                         <addClasspath>true</addClasspath>
-                        <mainClass>main.Main</mainClass>
+                        <mainClass>week1.dag2.deel2.Filteren</mainClass>
                     </manifest>
                 </archive>
             </configuration>
